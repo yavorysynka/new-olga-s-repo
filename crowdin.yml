@@ -1,5 +1,8 @@
 files:
-  - source: /*_en.json
-    translation: /%locale%.%file_name%.json
+  - source: /*.*
+    ignore:
+      - /*.csv
+      - /*.xml
+    translation: /translations/%two_letters_code%/%original_file_name%
     translation_replace:
       en.: 
