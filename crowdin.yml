@@ -2,3 +2,5 @@ export_languages: de
 files:
   - source: /**/*.md
     translation: /translations/%two_letters_code%/%original_file_name%
+  - source: /*.json
+    translation: /translations/%locale%.%file_extension%
