@@ -1,4 +1,4 @@
 export_languages: de
 files:
-  - source: /*.xliff
+  - source: /*.json
     translation: /translations/%locale%/%original_file_name%
