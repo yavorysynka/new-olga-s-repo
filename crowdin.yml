@@ -1,4 +1,4 @@
 export_languages: de
 files:
   - source: /*.json
-    translation: /bb/%locale%.%file_extension%
+    translation: /transla/%two_letters_code%/%original_file_name%
