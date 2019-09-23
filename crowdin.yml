@@ -1,4 +1,3 @@
-export_languages: de
 files:
   - source: /*.json
     translation: /translations/%two_letters_code%.%file_extension%
