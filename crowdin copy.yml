@@ -1,0 +1,28 @@
+files: [
+ {
+  "source" : "/src/admin/localization/index.ts",
+  "dest" : "/src/admin/localization/index.csv",
+  "type" : "csv",
+  "first_line_contains_header" : true,
+  "scheme" : "identifier,fi,source_phrase,de"
+  "translation" : "/%locale%/*/index.ts",
+  "languages_mapping" : {
+    "locale" : {
+      "fi" : "src",
+      "de" : "src",
+      "sv-SE" : "src"
+     },
+  {
+      "source" : "/src/store/localization/index.ts",
+      "dest" : "/src/store/localization/index.csv",
+      "type" : "csv",
+      "first_line_contains_header" : true,
+      "scheme" : "identifier,fi,source_phrase,de"
+      "translation" : "/%locale%/*/index.ts",
+      "languages_mapping" : {
+        "locale" : {
+          "fi" : "src",
+          "de" : "src",
+          "sv-SE" : "src"
+         }
+]
