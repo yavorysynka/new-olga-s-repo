@@ -1,9 +1,0 @@
-files: [
- {
-  "source" : "/locale_example.ts",
-  "dest" : "/src/admin/localization/locale_example.csv",
-  "type" : "csv",
-  "first_line_contains_header" : true,
-  "scheme" : "identifier,fi,source_phrase,de",
-  "translation" : "/%locale%/locale_example.ts"
-]
