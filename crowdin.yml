@@ -5,7 +5,7 @@ files: [
   "type" : "csv",
   "first_line_contains_header" : true,
   "scheme" : "identifier,fi,source_phrase,de",
-  "translation" : "/%locale%/localization/locale_example.ts",
+  "translation" : "/%locale%/**/locale_example.ts",
   "languages_mapping" : {
     "locale" : {
       "fi" : "src",
