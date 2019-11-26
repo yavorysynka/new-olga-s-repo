@@ -4,12 +4,12 @@
     <body>
       <trans-unit id="874396" maxwidth="20" size-unit="char">
         <source>text</source>
-        <target state="needs-translation">text</target>
+        <target state="translated">tekst</target>
         <note>Context</note>
       </trans-unit>
       <trans-unit id="874397">
         <source>text 1</source>
-        <target state="needs-translation">text 1</target>
+        <target state="translated">tekst 1</target>
         <note>Context 1</note>
       </trans-unit>
       <trans-unit id="874398">
