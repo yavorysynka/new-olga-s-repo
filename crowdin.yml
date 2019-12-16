@@ -1,3 +1,3 @@
 files:
-  - source: /*.xliff
-    translation: /translations/%locale_with_underscore%/%original_file_name%
+  - source: /*.json
+    translation: /translattions/%two_letters_code%/%original_file_name%
