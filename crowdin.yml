@@ -1,3 +1,4 @@
 files:
   - source: /*.json
+    update_option : update_as_unapproved
     translation: /olga/%locale%/%original_file_name%
