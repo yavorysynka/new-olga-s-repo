@@ -1,5 +1,6 @@
 {
-    "Key1": "Chaîne Source 11",
-    "Key2": "Titre de la source",
-    "Key3": "Titre de la source"
+    "Key1": "Hello!",
+    "Key2": "Source string 2",
+    "Key3": "Source string 3",
+    "key4": "Halloo!"
 }
